@@ -1,0 +1,45 @@
+* {
+    font-size: 14px;
+}
+
+h1 {
+    color: #000000;
+}
+
+#box-exemplo-1,
+#box-exemplo-2,
+#box-exemplo-3,
+#box-exemplo-4,
+#box-exemplo-5,
+#box-exemplo-6 {
+    color: #FFFFFF;
+}
+
+#box-exemplo-1 {
+    background-color: #228C22;
+}
+
+#box-exemplo-2 {
+    background-color: #E4CD0C;
+}
+
+#box-exemplo-3 {
+    background-color: #3944BC;
+}
+
+#box-exemplo-4 {
+    background-color: #FF0000;
+}
+
+#box-exemplo-5 {
+    background-color: #FF6400;
+}
+
+#box-exemplo-6 {
+    background-color: #4B0082;
+}
+
+#card-example {
+    background-color: #CCCCCC;
+    font-weight: bold;
+}
